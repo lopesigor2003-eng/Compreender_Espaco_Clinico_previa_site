@@ -1,0 +1,6 @@
+{
+  "name": "Compreender - Espaço Clínico Transdisciplinar",
+  "description": "Clínica transdisciplinar em Santa Maria RS com foco em acolhimento e evolução: psicologia, fonoaudiologia, terapia ocupacional, TEA e avaliação neuropsicológica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
